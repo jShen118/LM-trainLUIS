@@ -1,2 +1,2 @@
 # LM-trainLUIS
-repo to create json training for Microsoft LUIS model
+repo to create training for Microsoft LUIS model using LUIS API
