@@ -1,0 +1,80 @@
+[
+    {
+        "text": "I'm trying to load the TEAMS app on my phone",
+        "intent": "Intent.FrozenLoadingIssue",
+        "entities": [
+            {
+                "entity": "ML.Apps.CommunicationsApplications",
+                "startPos": 23,
+                "endPos": 27,
+                "children": []
+            },
+            {
+                "entity": "ML.Hardware.Mobile",
+                "startPos": 39,
+                "endPos": 43,
+                "children": []
+            },
+            {
+                "entity": "keyPhrase",
+                "startPos": 0,
+                "endPos": 2,
+                "children": []
+            },
+            {
+                "entity": "List.Apps.All",
+                "startPos": 23,
+                "endPos": 27,
+                "children": []
+            }
+        ]
+    },
+    {
+        "text": "i cannot log into Zscaler",
+        "intent": "Intent.NetworkIssues",
+        "entities": [
+            {
+                "entity": "ML.Apps.NetworkSecurity",
+                "startPos": 18,
+                "endPos": 24,
+                "children": []
+            },
+            {
+                "entity": "ML.Issues.Access",
+                "startPos": 2,
+                "endPos": 16,
+                "children": []
+            },
+            {
+                "entity": "ML.Apps.GRMGRS",
+                "startPos": 18,
+                "endPos": 24,
+                "children": []
+            },
+            {
+                "entity": "keyPhrase",
+                "startPos": 18,
+                "endPos": 24,
+                "children": []
+            },
+            {
+                "entity": "List.Apps.All",
+                "startPos": 18,
+                "endPos": 24,
+                "children": []
+            }
+        ]
+    },
+    {
+        "text": "good morning",
+        "intent": "None",
+        "entities": [
+            {
+                "entity": "keyPhrase",
+                "startPos": 0,
+                "endPos": 11,
+                "children": []
+            }
+        ]
+    }
+]
